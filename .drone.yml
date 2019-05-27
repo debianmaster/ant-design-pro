@@ -3,7 +3,7 @@ name: default
 
 steps:
 - name: frontend
-  image: node:alpine
+  image: node:12.3.1-slim
   commands:
   - npm install
 
