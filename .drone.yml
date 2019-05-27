@@ -3,7 +3,7 @@ name: default
 
 steps:
 - name: frontend
-  image: node:12.3.1-slim
+  image: node:10.15.3-jessie
   commands:
   - npm install
 
