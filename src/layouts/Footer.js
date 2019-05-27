@@ -8,7 +8,7 @@ const FooterView = () => (
     <GlobalFooter
       links={[
         {
-          key: 'Pro 首页',
+          key: 'Pro',
           title: 'Pro 首页',
           href: 'https://pro.ant.design',
           blankTarget: true,
